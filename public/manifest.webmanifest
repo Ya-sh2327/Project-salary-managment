@@ -1,0 +1,18 @@
+{
+  "name": "MyMoney – Smart Salary Manager",
+  "short_name": "MyMoney",
+  "description": "Manage monthly salary, expenses, budgets and savings.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#101b35",
+  "icons": [
+    {
+      "src": "mymoney-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
